@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <li>A strong understanding of Data Structures and Algorithms</li> 
     <li>Gained decent web development experience by working upon some perosnal full stack projects.</li>
     <li>Blockchain technology fascinates me, and I'm actively learning about it.</li>
-    <li>A team player who can work under pressure and is always up for a challenge.</li> 
-
+    <li>A team player who can work under pressure and is always up for a challenge.</li>
 </ul> 
-
+<p align="left"> Currently looking for the software intern role</p>
+Feel free to drop me a 📧 at **tanmaynikam2002@gmail.com*
