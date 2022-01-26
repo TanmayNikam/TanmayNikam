@@ -81,7 +81,6 @@ Feel free to drop me a 📧 at
 About Me:
 - 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
 - 🌱 I’m currently learning : Blockchain
-- 🤔 I’m looking for help with : Data Structures and Algorithms
 - 📫 [Reach Me](mailto:tanmaynikam2002@gmail.com)
 - 😄 Pronouns: He/Him
     
