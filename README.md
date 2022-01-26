@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img align="right" src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/web_developer.gif">
