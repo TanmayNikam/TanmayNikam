@@ -25,7 +25,9 @@ Here are some ideas to get you started:
     <li>A team player who can work under pressure and is always up for a challenge.</li>
 </ul> 
 <p align="left"> Currently looking for the software intern role</p>
-Feel free to drop me a 📧 at  **tanmaynikam2002@gmail.com**
+Feel free to drop me a 📧 at 
+
+**tanmaynikam2002@gmail.com**
 
 
 <br>
