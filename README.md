@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <li>A team player who can work under pressure and is always up for a challenge.</li>
 </ul> 
 <p align="left"> Currently looking for the software intern role</p>
-Feel free to drop me a 📧 at <a href = "tanmaynikam2002@gmail.com>tanmaynikam2002@gmail.com</a>
+Feel free to drop me a 📧 at **tanmaynikam2002@gmail.com**
 
 
 <br>
@@ -73,3 +73,13 @@ Feel free to drop me a 📧 at <a href = "tanmaynikam2002@gmail.com>tanmaynikam2
 <img align="left" alt="Harshitha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayNikam" />
 
 </details>
+
+    
+About Me:
+- 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
+- 🌱 I’m currently learning : Blockchain
+- 🤔 I’m looking for help with : Data Structures and Algorithms
+- 📫 [Reach Me](mailto:tanmaynikam2002@gmail.com)
+- 😄 Pronouns: He/Him
+    
+    
