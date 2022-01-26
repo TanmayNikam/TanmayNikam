@@ -38,7 +38,7 @@ Feel free to drop me a 📧 at
 ## Connect with me:
 <p align="left" > 
 <a href="https://www.linkedin.com/in/tanmay-nikam-607993192/" target="_blank" rel="noreferrer"  > <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30" style="margin-right: 200px;"/> </a>
-    <a target="_blank" href="mailto:tanmaynikam2002@gmail.com"><img align="left" alt="tanmay | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto:tanmaynikam2002@gmail.com"><img align="left" alt="tanmay | Email" width="60px" height="30" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 
