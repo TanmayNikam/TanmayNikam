@@ -59,6 +59,14 @@ Feel free to drop me a 📧 at
 <code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png" alt="git" height="30"/> </a> </code> 
 <code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a> </code>
 </p>
+   
+
+
+About Me:
+- 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
+- 🌱 I’m currently learning : Blockchain
+- 📫 [Reach Me](mailto:tanmaynikam2002@gmail.com)
+- 😄 Pronouns: He/Him
     
     
 ## Stats
@@ -77,11 +85,5 @@ Feel free to drop me a 📧 at
 
 </details>
 
-    
-About Me:
-- 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
-- 🌱 I’m currently learning : Blockchain
-- 📫 [Reach Me](mailto:tanmaynikam2002@gmail.com)
-- 😄 Pronouns: He/Him
-    
+
     
