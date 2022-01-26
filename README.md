@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p> <img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/web_developer.gif" vertical-align="middle" align ="right" width="50%"> Hi, I'm Tanmay, a pre-final year CSE student at IIIT Naya Raipur with a strong understanding of Data Structures and Algorithms and some web development experience, having built websites utilizing the MERN stack. Blockchain technology fascinates me, and I'm actively learning about it. A team player who can work under pressure and is always up for a challenge.</p>
+<p display="inline-block"> <img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/web_developer.gif" vertical-align="middle" align ="right" width="50%"> Hi, I'm Tanmay, a pre-final year CSE student at IIIT Naya Raipur with a strong understanding of Data Structures and Algorithms and some web development experience, having built websites utilizing the MERN stack. Blockchain technology fascinates me, and I'm actively learning about it. A team player who can work under pressure and is always up for a challenge.</p>
