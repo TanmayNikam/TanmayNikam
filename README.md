@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <ul align="left">
     <li>Hi, I'm Tanmay 🤓️, a pre-final year CSE student at IIIT Naya Raipur.</li>
     <li>A strong understanding of Data Structures and Algorithms.</li> 
-    <li>Gained decent web development experience by working upon some perosnal full stack projects.</li>
+    <li>Gained decent web development experience by working upon some personal full stack projects.</li>
     <li>Blockchain technology fascinates me, and I'm actively learning about it.</li>
     <li>A team player who can work under pressure and is always up for a challenge.</li>
 </ul> 
