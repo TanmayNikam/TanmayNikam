@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>Gained decent web development experience by working upon some personal full stack projects.</li>
     <li>A team player who can work under pressure and is always up for a challenge.</li>
 </ul> 
-<p align="left"> Currently working as a software intern at stealth startup</p>
+<p align="left"> Currently working as a SDE intern at a stealth startup</p>
 Feel free to drop me a 📧 at 
 
 **tanmaynikam2002@gmail.com**
@@ -62,7 +62,7 @@ Feel free to drop me a 📧 at
 
 
 ## About Me:
-- 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
+- 🔭 I’m currently working on : Competitive Programming and DSA
 - 📫 [Reach Me](mailto:tanmaynikam2002@gmail.com)
 - 😄 Pronouns: He/Him
     
